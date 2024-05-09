@@ -31,6 +31,8 @@ For continuous learning I tracked the time spent on this project.
 
 I also like thinking in terms of always making sure the project is "complete". Meaning, for every iteration, there will be something concrete to showcase.
 
+[Git commit message best practice](https://github.com/joelparkerhenderson/git-commit-message?tab=readme-ov-file)
+
 ## Log
 
 ### 24-05-08
