@@ -51,3 +51,8 @@ Used ChatGPT to generate ideas. Also tried some art generation, but it didn't le
 
 -   Getting the development started.
 -   Documented my initial thoughts.
+-   Watched youtube videos to learn more about design and took detailed notes. ([My research notes](docs/research-notes.md))
+    -   [How To Not Suck At Design For Developers](https://youtu.be/YNOwO5s4AL8?si=nTwMhq42aH8ycwUF) by Bard: This video is about design principles for developers. The speaker outlines the four main design principles: Contrast, Repetition, Alignment, and Proximity (CRAP). The speaker also talks about using a grid system and breaks down the 60-30-10 rule for choosing colors.
+    -   [Design Better Than 99% of UI Designers](https://youtu.be/PGQnGEH7c-E?si=ewY93oCv7MFutQcT) by Tim Gabe: This video is about seven key guidelines that top 1% designers use to create amazing websites. In this video, Tim Gabe uses a before-and-after website makeover to illustrate these guidelines.
+    -   [Only Noobs Build Beautiful Websites](https://youtu.be/NJGLR5gl6m4?si=knygExp9N44x7KE9) by The Futur: The video argues that while beautiful websites may seem appealing, they are actually not the most effective for businesses. The video says that a user-friendly website is what truly matters.
+    -   [The Easiest Way to Build Websites](https://youtu.be/OjEg0IBR_ak?si=xjM7BDGj7r0WpS-z)by Easy Web Dev: This video is about how to build a better and profitable website. The speaker argues that regardless of whether you use code or a website builder, the most important thing is to design your website first.
