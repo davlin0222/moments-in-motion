@@ -14,7 +14,7 @@ This is a hobby project where I build a website for the fictional company Moment
 
 ### Time tracking
 
-For continuous learning I tracked time spend on this project.
+For continuous learning I tracked the time spent on this project.
 
 [Clockify public report](https://app.clockify.me/shared/663c81336463700016fdd4c9)
 
