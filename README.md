@@ -4,6 +4,10 @@ This is a hobby project where I build a website for the fictional company Moment
 
 ## Tools
 
+### GitHub
+
+[moments-in-motion](https://github.com/davlin0222/moments-in-motion)
+
 ### Generative AI
 
 [Shared ChatGPT conversation](https://chat.openai.com/share/e3160ec1-7a9c-49a1-ab80-208da6b56930)
