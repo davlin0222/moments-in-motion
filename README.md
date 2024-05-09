@@ -21,9 +21,15 @@ For continuous learning I tracked time spend on this project.
 -   "Brace yourself"
 -   "Embrace ..."
 
-# Log
+## Development philosophy
 
-## 24-05-08
+[Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
+I also like thinking in terms of always making sure the project is "complete". Meaning, for every iteration, there will be something concrete to showcase.
+
+## Log
+
+### 24-05-08
 
 Used ChatGPT to generate ideas. Also tried some art generation, but it didn't lead to anything. Here are a summary of the brand Moments in Motion:
 
@@ -35,6 +41,7 @@ Used ChatGPT to generate ideas. Also tried some art generation, but it didn't le
 
     Slogan: "Embrace Moments, Wear Memories" encapsulates the brand's philosophy of valuing experiences and cherishing memories through wearable symbols like bracelets. It communicates the brand's focus on mindfulness, personal connection, and meaningful moments.
 
-## 24-05-09
+### 24-05-09
 
-Getting the development started.
+-   Getting the development started.
+-   Documented my initial thoughts.
